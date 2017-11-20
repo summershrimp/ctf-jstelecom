@@ -8,7 +8,7 @@
 <?php 
 
 if(isset($_GET['ip'])) {
-	system("ping " . $_GET['ip']);
+	system("ping -c 1 " . $_GET['ip']);
 }
 
 ?>
