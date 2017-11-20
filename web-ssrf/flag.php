@@ -1,6 +1,6 @@
 <pre>
 flag is galf{this_is_fake_flag}
-if you come from 127.0.10.2, you will get the true flag.
+if you come from 127.0.0.1, you will get the true flag.
 </pre>
 
 <?php
